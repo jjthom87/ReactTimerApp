@@ -1,3 +1,3 @@
 # ReactTimerApp
 
-jtreacttimerapp.herokuapp.com
+http://jtreacttimerapp.herokuapp.com
